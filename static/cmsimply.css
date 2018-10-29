@@ -2,7 +2,7 @@
   position: relative;
 }
 header{
-  background: #ccc;
+  background:
   padding: 20px;
 }
 confmenu
@@ -201,6 +201,7 @@ background-color: white;
 width: 195px;
 }
 body {
+	background-image: url(https://images.alphacoders.com/902/902401.jpg);
   margin-bottom: 120px;
 }
 
